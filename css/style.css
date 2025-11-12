@@ -1,7 +1,7 @@
 body {
     width: 100vh;
     height: 99vh;
-    background-image: url(/img/bac.png);
+    background-image: url(./img/bac.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
@@ -136,7 +136,7 @@ a{
 .additional-block{
     display: flex-start;
     justify-content: space-around;
-    background-image: url('/img/Bg for block.png');
+    background-image: url('./img/Bg for block.png');
     width: 1272px; 
     height: 362px;
     margin-bottom: 120px;
@@ -296,7 +296,7 @@ a{
 }
 
 .bg3 {
-    background-image: url("/img/Bg for sm.jpg");
+    background-image: url("./img/Bg for sm.jpg");
     font-family: 'Poppins';
     width: 1475px;
     height: auto;
@@ -310,4 +310,5 @@ a{
 
 .logo img {
     height: 30px;
+
 }
