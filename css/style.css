@@ -136,7 +136,7 @@ a{
 .additional-block{
     display: flex-start;
     justify-content: space-around;
-    background-image: url('../img/Bg for block.png');
+    background-image: url('../img/Bgforblock.png');
     width: 1272px; 
     height: 362px;
     margin-bottom: 120px;
@@ -296,7 +296,7 @@ a{
 }
 
 .bg3 {
-    background-image: url("../img/Bg for sm.jpg");
+    background-image: url("../img/Bgforsm.jpg");
     font-family: 'Poppins';
     width: 1475px;
     height: auto;
@@ -312,4 +312,5 @@ a{
     height: 30px;
 
 }
+
 
